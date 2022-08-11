@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "7e57f0497369ad67",
+    "type": "split",
+    "children": [
+      {
+        "id": "276cfdd9ea800489",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dwarf Slayer.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d67b4b6d59722fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2812081fb3f152b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59cdcfcf1a5bc7b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc99f69c6c638bdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 170.99999809265137
+  },
+  "right": {
+    "id": "2cb7f8dfa9f377aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "53df5ced8f0159ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef777e4b49acabd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dwarf Slayer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "369d2125ff5ee537",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c191d64f7464ca1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dwarf Slayer.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.4870147705078,
+    "collapsed": true
+  },
+  "active": "276cfdd9ea800489",
+  "lastOpenFiles": [
+    "Reading List (conflict 2022-07-25-15-51-26).md",
+    "Reading List.md",
+    "Pathfinder 2.md",
+    "Pathfinder 2 (conflict 2022-07-23-18-37-22).md",
+    "Dungeon World.md",
+    "Dungeon World (conflict 2022-07-16-02-28-47) (conflict 2022-07-17-23-56-34).md",
+    "Dungeon World (conflict 2022-07-16-02-28-47) (conflict 2022-07-16-15-49-59).md",
+    "Dungeon World (conflict 2022-07-16-02-28-47) (conflict 2022-07-16-12-13-52).md",
+    "Rules-Systems/Rules Changes.md",
+    "Setting/Places.md"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "7e57f0497369ad67",
+    "type": "split",
+    "children": [
+      {
+        "id": "699998c030473778",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d67b4b6d59722fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2812081fb3f152b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59cdcfcf1a5bc7b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc99f69c6c638bdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 173
+  },
+  "right": {
+    "id": "2cb7f8dfa9f377aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "53df5ced8f0159ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef777e4b49acabd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "369d2125ff5ee537",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c191d64f7464ca1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "699998c030473778",
+  "lastOpenFiles": [
+    "Rules/Starting Age.md",
+    "History/Z'bri.md",
+    "Heritage/Heritage-Crabman.md",
+    "Heritage/Heritage-All.md",
+    "Heritage/Heritage-Naga.md",
+    "Heritage/Heritage-Human.md",
+    "Heritage/Heritage-Elf.md",
+    "Heritage/Heritage-Dwarf.md",
+    "Heritage/Heritage-Dragonborn.md",
+    "Heritage/Heritage-Goblin.md"
+  ]
+}

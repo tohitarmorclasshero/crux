@@ -1,0 +1,24 @@
+{
+  "menuCommands": [
+    {
+      "id": "editor:set-heading",
+      "name": "Toggle heading",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "editor:toggle-numbered-list",
+      "name": "Toggle numbered list",
+      "icon": "number-list-glyph"
+    },
+    {
+      "name": "Sort & Permute lines: Sort current list alphabetically",
+      "id": "obsidian-sort-and-permute-lines:sort-list-alphabetically",
+      "icon": "any-key"
+    },
+    {
+      "name": "Advanced Tables: Open table controls toolbar",
+      "id": "table-editor-obsidian:table-control-bar",
+      "icon": "any-key"
+    }
+  ]
+}
